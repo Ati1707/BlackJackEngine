@@ -1,2 +1,2 @@
 # BlackJackEngine
-A library to get various probabilities and statistics for a blackjack game
+A python class to get various probabilities and statistics for a blackjack gameme
